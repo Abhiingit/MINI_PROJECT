@@ -1,0 +1,376 @@
+[{
+  "_id": {
+    "$oid": "69b9a0e0f2a7b6ce3b484f1d"
+  },
+  "userId": "69b848bbbb7c895e34671b95",
+  "companyId": "company1",
+  "checkIn": {
+    "$date": "2026-03-17T18:43:44.159Z"
+  },
+  "date": {
+    "$date": "2026-03-17T18:43:44.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e211"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-03-19T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e212"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-03-22T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e213"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-03-23T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e214"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-03-24T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e215"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-03-25T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e216"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-03-26T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e217"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-03-29T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e218"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-03-30T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e219"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-03-31T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e21a"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-04-01T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e21b"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-04-02T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e21c"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-04-05T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e21d"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-04-06T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e21e"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-04-07T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e21f"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-04-08T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e220"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-04-12T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e221"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-04-13T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e222"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-04-14T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e223"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-04-15T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e4703b135bf4469d93e224"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "date": {
+    "$date": "2026-04-16T18:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e470c6430dfbc2ad54c423"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "checkIn": {
+    "$date": "2026-04-19T06:05:58.400Z"
+  },
+  "date": {
+    "$date": "2026-04-19T06:05:58.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e470c9430dfbc2ad54c426"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "checkIn": {
+    "$date": "2026-04-19T06:06:01.662Z"
+  },
+  "date": {
+    "$date": "2026-04-19T06:06:01.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e470ca430dfbc2ad54c429"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "checkIn": {
+    "$date": "2026-04-19T06:06:02.204Z"
+  },
+  "date": {
+    "$date": "2026-04-19T06:06:02.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e470ca430dfbc2ad54c42c"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "checkIn": {
+    "$date": "2026-04-19T06:06:02.600Z"
+  },
+  "date": {
+    "$date": "2026-04-19T06:06:02.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e470ca430dfbc2ad54c42f"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "checkIn": {
+    "$date": "2026-04-19T06:06:02.913Z"
+  },
+  "date": {
+    "$date": "2026-04-19T06:06:02.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e470cb430dfbc2ad54c432"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "checkIn": {
+    "$date": "2026-04-19T06:06:03.231Z"
+  },
+  "date": {
+    "$date": "2026-04-19T06:06:03.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e470cb430dfbc2ad54c435"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "checkIn": {
+    "$date": "2026-04-19T06:06:03.524Z"
+  },
+  "date": {
+    "$date": "2026-04-19T06:06:03.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e470cb430dfbc2ad54c438"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "checkIn": {
+    "$date": "2026-04-19T06:06:03.866Z"
+  },
+  "date": {
+    "$date": "2026-04-19T06:06:03.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e473bd430dfbc2ad54c43e"
+  },
+  "userId": "69e46ece430dfbc2ad54c40f",
+  "companyId": "comp-1",
+  "checkIn": {
+    "$date": "2026-04-19T06:18:37.862Z"
+  },
+  "date": {
+    "$date": "2026-04-19T06:18:37.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e701df1f73317a67523e92"
+  },
+  "userId": "69e47641430dfbc2ad54c447",
+  "companyId": "comp1",
+  "checkInTime": {
+    "$date": "2026-04-21T04:49:35.696Z"
+  },
+  "checkOutTime": null,
+  "status": "Present",
+  "date": {
+    "$date": "2026-04-21T04:49:35.701Z"
+  },
+  "__v": 0
+}]

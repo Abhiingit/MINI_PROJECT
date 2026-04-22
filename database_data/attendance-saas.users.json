@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "69b848bbbb7c895e34671b95"
+  },
+  "name": "Yash",
+  "email": "yash@test.com",
+  "password": "$2b$10$bk41CV9tyKUaieQNCVnd2.SMJPO6fNi.sHFJAUejy7QQgLqlPaoBm",
+  "role": "employee",
+  "companyId": "company1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d8f6f68733097cca41212e"
+  },
+  "name": "Alice",
+  "email": "alice@school.com",
+  "password": "$2b$10$aO4PZbqcMpIa52P98zNMdeTSgE61RbK26ojrkCcVbniSc6tgSnQ42",
+  "role": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e46ece430dfbc2ad54c40f"
+  },
+  "name": "Test Student",
+  "email": "student@example.com",
+  "password": "$2b$10$uZZdmyeLV5u6hW5pOZq9ouQGtUIS6O6JwhaQr0pTpj4K5j4TVuq..",
+  "role": "student",
+  "companyId": "comp1",
+  "__v": 0,
+  "department": "Engineering"
+},
+{
+  "_id": {
+    "$oid": "69e47641430dfbc2ad54c447"
+  },
+  "name": "Admin",
+  "email": "admin@comp1.com",
+  "password": "$2b$10$t7A85Zu8tey1op5.yofGL.Lxj/Uk.B1qHZSwqCF25IJP9VdUa9Tny",
+  "role": "admin",
+  "companyId": "comp1",
+  "__v": 0,
+  "department": "Management"
+}]

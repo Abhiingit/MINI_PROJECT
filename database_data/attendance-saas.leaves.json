@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "69b9a131f2a7b6ce3b484f1f"
+  },
+  "userId": "69b848bbbb7c895e34671b95",
+  "companyId": "company1",
+  "startDate": {
+    "$date": "2026-03-20T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-22T00:00:00.000Z"
+  },
+  "reason": "Medical leave",
+  "status": "pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d8f8968733097cca412130"
+  },
+  "userId": "69b848bbbb7c895e34671b95",
+  "companyId": "company1",
+  "startDate": {
+    "$date": "2026-03-20T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-22T00:00:00.000Z"
+  },
+  "reason": "Medical leave",
+  "status": "pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e7025d1f73317a67523e95"
+  },
+  "userId": "69e47641430dfbc2ad54c447",
+  "companyId": "comp1",
+  "startDate": {
+    "$date": "2012-12-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2015-02-02T00:00:00.000Z"
+  },
+  "reason": "accident",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-04-21T04:51:41.228Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-21T04:51:41.228Z"
+  },
+  "__v": 0
+}]
