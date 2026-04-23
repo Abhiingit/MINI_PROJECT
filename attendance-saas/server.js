@@ -10,7 +10,7 @@ const app = express();
 connectDB();
 
 app.use(cors({
-  origin: "https://atttendance-saas.netlify.app",
+  origin: "https://attendance-saas.netlify.app",
   credentials: true
 }));
 app.use(express.json());
