@@ -10,20 +10,20 @@ const app = express();
 connectDB();
 
 app.use(cors({
-  origin: "https://atttendance-saas.netlify.app",
+  origin: "https://mini-project-rosy-sigma.vercel.app",
   credentials: true
 }));
 app.use(express.json());
 
-app.use("/api/auth",require("./routes/authRoutes"));
+app.use("/api/auth", require("./routes/authRoutes"));
 
-app.use("/api/attendance",require("./routes/attendanceRoutes"));
+app.use("/api/attendance", require("./routes/attendanceRoutes"));
 
-app.use("/api/leave",require("./routes/leaveRoutes"));
+app.use("/api/leave", require("./routes/leaveRoutes"));
 app.use("/api/admin", require("./routes/adminRoutes"));
 
-app.listen(process.env.PORT,()=>{
+app.listen(process.env.PORT, () => {
 
- console.log("Server running");
+  console.log("Server running");
 
 });
